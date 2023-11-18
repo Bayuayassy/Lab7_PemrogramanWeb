@@ -34,7 +34,6 @@ Kelas : TI.22.A1
     </html>
 ```
 
-![1](https://github.com/syifaaurellia/Lab7web/assets/115867244/fe5b6a6b-ea0a-49ac-8015-dee3bd3ec155)
 
 
 4. Variable PHP :
@@ -47,7 +46,6 @@ Kelas : TI.22.A1
     ?>
 ```
 
-![2](https://github.com/syifaaurellia/Lab7web/assets/115867244/21ad070e-8f5c-4eb9-b08a-12faf116f700)
 
 
 5. Predefine Variable $_GET :
@@ -58,7 +56,6 @@ Kelas : TI.22.A1
 ```
 
 
-![3](https://github.com/syifaaurellia/Lab7web/assets/115867244/49f365d6-fc09-44e8-9ce5-d33ad2001050)
 
 
 6. Membuat Form :
@@ -84,7 +81,6 @@ Kelas : TI.22.A1
 ```
 
 
-![4](https://github.com/syifaaurellia/Lab7web/assets/115867244/3adf62c4-b272-4152-9dbe-5fdbca00e685)
 
 
 
@@ -100,7 +96,6 @@ Kelas : TI.22.A1
 ```
 
 
-![5](https://github.com/syifaaurellia/Lab7web/assets/115867244/bf2c9daf-92fa-496c-a1c0-dce31297c3fb)
 
 
 8. Kondisi IF :
@@ -118,7 +113,6 @@ Kelas : TI.22.A1
 ```
 
 
-![6](https://github.com/syifaaurellia/Lab7web/assets/115867244/512eb948-c17d-4cb5-8266-84a1263557bf)
 
 
 
@@ -142,7 +136,7 @@ Kelas : TI.22.A1
 ```
 
 
-![7](https://github.com/syifaaurellia/Lab7web/assets/115867244/41ac2f08-8596-47b8-ac45-dd2424d14bdb)
+
 
 
 
@@ -161,7 +155,6 @@ Kelas : TI.22.A1
 ```
 
 
-![8](https://github.com/syifaaurellia/Lab7web/assets/115867244/3092c1e0-e553-4c41-916d-d1e79cee1187)
 
 
 11. Perulangan while :
@@ -175,9 +168,6 @@ Kelas : TI.22.A1
     }
     ?>
 ```
-
-
-![9](https://github.com/syifaaurellia/Lab7web/assets/115867244/14443601-3b31-4738-845a-04f649f6f8e6)
 
 
 
@@ -194,11 +184,11 @@ Kelas : TI.22.A1
 ```
 
 
-![10](https://github.com/syifaaurellia/Lab7web/assets/115867244/7c1f06c9-fb16-4283-ad76-0b64d3f59c2c)
 
 
 
-## Pertanyaan dan Tugas 
+
+# Pertanyaan dan Tugas 
 > Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
 nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
 umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
@@ -291,7 +281,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
 
-https://github.com/syifaaurellia/Lab7web/assets/115867244/1a104ad5-1190-43b2-918f-3efdfe2d7e69
 
 
-## Sekian, Terima Kasih 
+# Terima Kasih 
